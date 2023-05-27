@@ -1,0 +1,26 @@
+body {
+    margin: 1rem;
+    padding: 1rem;
+    h1 {
+        margin: 1rem 0;
+        padding: 1rem;
+        font-size: 3rem;
+        color: rgb(41, 48, 41);
+        /*     background: rgb(238,174,202); */
+        background: rgba(238, 174, 202, 1);
+
+        footer {
+            /*     color: #676767; */
+            /*     background-color: bisque; */
+            font-family: Arial, Helvetica, Sans-serif;
+            color: white;
+            background-color: darksalmon;
+            font-size: 100%;
+            margin-bottom: 3rem;
+            line-height: 1.5;
+            text-align: center;
+            display: inline-block;
+            position: relative;
+        }
+    }
+}

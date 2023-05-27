@@ -1,0 +1,75 @@
+body {
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 72%, rgba(148, 187, 233, 1) 100%);
+
+    main {
+        h2 {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            background-color: bisque;
+            font-size: 1.5rem;
+            color: rgb(41, 48, 41);
+            padding: 1rem;
+            margin-top: .5rem;
+            margin-bottom: .5rem;
+        }
+    }
+
+    main {
+        div {
+            .imgbootstrap {
+                width: 40%;
+                margin: auto;
+                padding: 1rem;
+                /*                 margin-left: 25%;
+                margin-right: 25%; */
+                margin-top: 5%;
+                background-color: #E1E1E1;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                flex-direction: row;
+                overflow-x: hidden;
+
+                /* Atributos de diseño */
+                display: block;
+            }}}}
+div{
+                h5 {
+                    color: black;
+                    font-size: 100%;
+                    text-decoration:none;
+                    font-family: 'Roboto Mono', monospace;
+
+                    .titulos1 {
+                        width: 50%;
+                        margin-top: .4rem;
+                        align-items: center;
+                        justify-content: center;
+                        font-family: 'PT Sans', sans-serif;
+                        color: black;
+                        margin: .5rem;
+                        padding: .3rem;
+                        font-size: 2rem;
+                        color: rgb(41, 48, 41);
+                        background-color: pink;
+                        display: flex;
+                        margin-left: 30%;
+                        margin-right: 30%;
+                        flex-direction: row;
+
+                    }
+                }
+            }
+
+        .video {
+            margin-top: 10%;
+            margin-bottom: 10%;
+            width: 100%;
+            /*  height: 100%; */
+            display: flex;
+            justify-content: center;
+            flex-direction: row;
+            margin: auto;
+        }

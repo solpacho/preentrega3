@@ -1,0 +1,76 @@
+body {
+    header {
+        .misproductos {
+            justify-content: center;
+            padding: 2rem;
+            margin: 1rem;
+            display: flex;
+            color: rgb(41, 48, 41);
+            background-color: bisque;
+        }
+    }
+}
+
+main {
+
+    .container {
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        .item {
+            background-color: antiquewhite;
+            width: 20%;
+            padding: 1rem;
+
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .container {
+
+            h3 {
+                font-family: Arial, Helvetica, Sans-serif;
+                color: white;
+                background-color: darksalmon;
+                font-size: 100%;
+                margin-bottom: 3rem;
+                line-height: 1.5;
+                text-align: center;
+                display: inline-block;
+                position: relative;
+            }
+
+            main {
+                article {
+                    section {
+                        p {
+                            height: 300px;
+                            text-decoration: none;
+                            color: #676767;
+                        }
+                    }
+
+                }
+            }
+
+            div {
+                display: flex;
+                justify-content: space-between;
+
+                a {
+                    background-color: pink;
+                    padding: .3rem;
+
+                    h5 {
+                        color: black;
+                    }
+                }
+            }
+        }
+    }
+}

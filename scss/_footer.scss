@@ -1,0 +1,35 @@
+footer
+    .subtitulo_index {
+        margin: .5rem;
+        padding: .3rem;
+        display: block;
+        justify-content: center;
+        grid-area: footer;
+            p{
+                text-decoration: none;
+                color: #676767;
+                font-family: 'PT Sans', sans-serif;
+                h3{
+                    font-family: Arial, Helvetica, Sans-serif;
+                    color: white;
+                    background-color: darksalmon;
+                    font-size: 70%;
+                    margin-bottom: 3rem;
+                    line-height: 1.5;
+                    text-align: center;
+                    display: inline-block;
+                    position: relative;
+        }
+    }
+}
+.newsletter{
+    font-size: 100%;
+}
+
+footer{
+    img{
+        width: 5rem;
+        display: inline;
+        justify-content: baseline;
+    }
+}
