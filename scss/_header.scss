@@ -7,12 +7,12 @@ body {
             position: relative;
             display: flex;
             justify-content: center;
-            background-color: bisque;
             margin: 1rem 0;
-            padding: 1rem;
+            padding: .5rem;
             font-size: 3rem;
             color: rgb(41, 48, 41);
             /*     background: rgb(238,174,202); */
+
             background: rgba(238, 174, 202, 1);
         }
     }
@@ -20,7 +20,7 @@ body {
 
 nav {
 
-    padding: 1rem;
+    padding: .5rem;
     text-decoration: none;
 
     .navbar {

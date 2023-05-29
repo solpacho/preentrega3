@@ -7,7 +7,7 @@ body {
             position: relative;
             display: flex;
             justify-content: center;
-            background-color: bisque;
+            background-color: rgb(128, 229, 224);
             font-size: 1.5rem;
             color: rgb(41, 48, 41);
             padding: 1rem;
@@ -19,12 +19,13 @@ body {
     main {
         div {
             .imgbootstrap {
-                width: 40%;
+                width: 30%;
                 margin: auto;
                 padding: 1rem;
                 /*                 margin-left: 25%;
                 margin-right: 25%; */
                 margin-top: 5%;
+                margin-bottom: 7%;
                 background-color: #E1E1E1;
                 justify-content: center;
                 align-items: center;
